@@ -89,14 +89,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>s1-2021-ihm/index.html at main · asim-sak/s1-2021-ihm</title>
+  <title>s1-2021-ihm/README.md at main · asim-sak/s1-2021-ihm</title>
     <meta name="description" content="Contribute to asim-sak/s1-2021-ihm development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/4cace4291e60b57cdb73dbac0f8a02f4d584381a3907d04572f2480704fef24d/asim-sak/s1-2021-ihm" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="s1-2021-ihm/index.html at main · asim-sak/s1-2021-ihm" /><meta name="twitter:description" content="Contribute to asim-sak/s1-2021-ihm development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/4cace4291e60b57cdb73dbac0f8a02f4d584381a3907d04572f2480704fef24d/asim-sak/s1-2021-ihm" /><meta property="og:image:alt" content="Contribute to asim-sak/s1-2021-ihm development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="s1-2021-ihm/index.html at main · asim-sak/s1-2021-ihm" /><meta property="og:url" content="https://github.com/asim-sak/s1-2021-ihm" /><meta property="og:description" content="Contribute to asim-sak/s1-2021-ihm development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/4cace4291e60b57cdb73dbac0f8a02f4d584381a3907d04572f2480704fef24d/asim-sak/s1-2021-ihm" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="s1-2021-ihm/README.md at main · asim-sak/s1-2021-ihm" /><meta name="twitter:description" content="Contribute to asim-sak/s1-2021-ihm development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/4cace4291e60b57cdb73dbac0f8a02f4d584381a3907d04572f2480704fef24d/asim-sak/s1-2021-ihm" /><meta property="og:image:alt" content="Contribute to asim-sak/s1-2021-ihm development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="s1-2021-ihm/README.md at main · asim-sak/s1-2021-ihm" /><meta property="og:url" content="https://github.com/asim-sak/s1-2021-ihm" /><meta property="og:description" content="Contribute to asim-sak/s1-2021-ihm development by creating an account on GitHub." />
     
 
 
@@ -104,11 +104,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/91720767/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MTcyMDc2NywicyI6NzY0Njk4ODUzLCJjIjozOTg5NzgzNzA4LCJ0IjoxNjMzNjczODcxfQ==--042e13cba5d0ca2c3a116c7bbac1330d2b7d5cb4d57b59da791831c7e1d077f8" data-refresh-url="/_alive" data-session-id="c31a117aa3f04b4db717d57882cc54c710bae20ff37246e0a91f8707da1d50de">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/91720767/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MTcyMDc2NywicyI6NzY0Njk4ODUzLCJjIjoyODU4MDYyMzQsInQiOjE2MzM2NzM3NDZ9--aa54764a359248af30a632b3e457cc8570558878f17351e418f9f06df94adcb6" data-refresh-url="/_alive" data-session-id="c31a117aa3f04b4db717d57882cc54c710bae20ff37246e0a91f8707da1d50de">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-0af8a29d.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="83F1:D4EE:4709AA:4D13B7:615FE286" data-pjax-transient="true" /><meta name="html-safe-nonce" content="dbb251917fb078517122eeb6a93fed529bef142c85044afec61416c37d6acd36" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hc2ltLXNhay9zMS0yMDIxLWlobSIsInJlcXVlc3RfaWQiOiI4M0YxOkQ0RUU6NDcwOUFBOjREMTNCNzo2MTVGRTI4NiIsInZpc2l0b3JfaWQiOiI2NjExNTI4NzI0MTUxOTg2MTk2IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="978b75c072188702586f6e33a2b8e7da71b0f1cb670d051ea9b6091c4c6ec8f1" data-pjax-transient="true" />
+  <meta name="request-id" content="83F1:D4EE:46AD6E:4CB225:615FE212" data-pjax-transient="true" /><meta name="html-safe-nonce" content="dbb251917fb078517122eeb6a93fed529bef142c85044afec61416c37d6acd36" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hc2ltLXNhay9zMS0yMDIxLWlobSIsInJlcXVlc3RfaWQiOiI4M0YxOkQ0RUU6NDZBRDZFOjRDQjIyNTo2MTVGRTIxMiIsInZpc2l0b3JfaWQiOiI2NjExNTI4NzI0MTUxOTg2MTk2IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="c567484b00a71c81ae3d44ce093942de9692f21bf08578c80c1ca7190540c3ee" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:414595220" data-pjax-transient>
 
@@ -147,7 +147,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NDc0M2ZmNDYyODlmYzYzZmRmYjE4ZTlmOWVkNWU0ZTQ3OTM2OWNjM2EzM2UyYjdkNTM1OWI0NDU2YzAzMWViZnx7InJlbW90ZV9hZGRyZXNzIjoiMTkzLjUyLjYxLjQiLCJyZXF1ZXN0X2lkIjoiODNGMTpENEVFOjQ3MDlBQTo0RDEzQjc6NjE1RkUyODYiLCJ0aW1lc3RhbXAiOjE2MzM2NzM4NzEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="NmE0MWRiZWJjNzY3OTQ1YzVmM2NlMWQyMzc0MDhlMTcwMDJiY2YyODk3YmQ1M2Y2ZDlhNTc0MzkzODExODE0M3x7InJlbW90ZV9hZGRyZXNzIjoiMTkzLjUyLjYxLjQiLCJyZXF1ZXN0X2lkIjoiODNGMTpENEVFOjQ2QUQ2RTo0Q0IyMjU6NjE1RkUyMTIiLCJ0aW1lc3RhbXAiOjE2MzM2NzM3NDYsImhvc3QiOiJnaXRodWIuY29tIn0=">
       <meta name="keyboard-shortcuts-preference" content="all">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,BRANCH_PROTECTION_RULE_WEBHOOK,MARKETPLACE_PENDING_INSTALLATIONS,FILE_UPLOAD_CURSOR_POSITION">
@@ -165,7 +165,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -205,7 +205,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="122a36cca6f5cabfdf69a5cd880d5f9be16a8da0162e0818c9c298b1756c0f05"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="6b53dec81b12bf9668fa169d4468176bb4c29e07086a9f9df6d36371c516e927"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -255,7 +255,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="6NHC/WQdD37WxelTiF60tqPPv312h5GuM7Dq3hkQ2mdMX+oXY7OJv2iIYl2JFVrHBGlr+VrsI01bqB7IJfpTuQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="tGqa+HEdKkxiQTJL9yqA2BR8el0ItvDAMh281LC2kbgQ5LISdrOsjdwMuUX2YW6ps9qu2STdQiNaBUjCjFwYZg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -459,7 +459,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;asim-sak&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="9f7e80473b043c7d176bfe0136a656d2b2327ea017d790dce5360e6475da77bb" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;asim-sak&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="fd3197ba9d4d302579a921d6b40b218894edf2cc9d8c21e02c5da77fad0e76cf" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -468,12 +468,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/91720767?s=40&amp;v=4" width="20" height="20" alt="@asim-sak" />
       asim-sak
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="17msdB30WKjTUO/vfFG1pB886BsFDA+GpuHnaIyfC6lxWxLscG6jq2d6Ohof5/G4dxYsQQS+jSqhYCDXQfEaZQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cdb7/WXCg/nOyVo1c4XEodEJekHkh4P8ZIuLFumFPeLXNEVlCFh4+nrjj8AQM4C9uSO+G+U1AVBjCkypJOssLg==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="fe2d35a6e795d88e122deef46854e31234392e738722db5c8cabbb06e0268e6e"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="c2ea1f38b9a8cf3af236600adc1005c551e890b3e9dc72c728a420581d1dcde1"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -490,7 +490,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="122a36cca6f5cabfdf69a5cd880d5f9be16a8da0162e0818c9c298b1756c0f05"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="6b53dec81b12bf9668fa169d4468176bb4c29e07086a9f9df6d36371c516e927"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -506,7 +506,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTE3MjA3NjciLCJ0IjoxNjMzNjczODcxfQ==--587dc4321eef5a7453510bd054134ec026e9901c8ce49d26b75f57f512b86037">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTE3MjA3NjciLCJ0IjoxNjMzNjczNzQ2fQ==--6272eb03a335a92f9a913c16f18f9ed9ac997f1a9e9d32cc96c3180991496ee2">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -529,7 +529,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="d850eac63890f0bc446a422ae1a22dfed44815b02a4109173ee4c47fa83e1430"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="d4f79c51aa2dfd7e85b0dc9ca64ea965e78749b44aad0d84c8e25f87c5707901"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -567,7 +567,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="795789a72d7f21a80a61a3a72ceefe7f9be17c5ea9aad729bf88578b7f9c0105"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="8cc933c31a0852f7f8a5b73f4606b8dd0d385709eaed53756cb7580b7fe1351a"
   >
     <img src="https://avatars.githubusercontent.com/u/91720767?s=40&amp;v=4" alt="@asim-sak" size="20" height="20" width="20" data-view-component="true" class="avatar-user avatar avatar-small"></img>
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -683,7 +683,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:414595220,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="0eb360f6f77def3a1190c12792b38ee3a872a810abf1a35540a3c9a9939c83ff" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:414595220,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="d3a51eb67544e4f378c0207c7cc34d7430d2424943988626a44259453199661b" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               
@@ -735,7 +735,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5D8r++UKGNY7Cp0uP9VzgBEW/mNWIRHe2Cv21kbSl3Bow7IWEcH27n9GAAJcVnEi0mRvOsTdgvJTnnlw3cgaMQ==" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EBce2pJpfe4fBAmsB9U3iPGrGuwAV+pHdArGiCZX+0Wc64c3ZqKT1ltIlIBkVjUqMtmLtZKreWv/v0kuvU12BA==" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="414595220">
 
@@ -858,7 +858,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Eq0THcJyUsnF8XtXrNS84or7kPBNcRoRYUJ+EsrTYpqeUYrwNrm88YG95nvPV75ASYkBqd+NiT3q9/G0Ucnv2w==" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Q5yzS5d8wVBL+OiwMuQqA8mNBjSB5IxTyOs4XBOT6fvPYCqmY7cvaA+0dZxRZyihCv+XbRMYH39DXrf6iIlkug==" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="414595220">
 
@@ -1017,9 +1017,9 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/asim-sak/s1-2021-ihm/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WGVar0YM+g+Tz5XIkeFDH2jSQoCg+zRuKLHCZu3+uKgW2ag3nyRo+O7Tmr2BvCqdp4cu6VzZhyGZCYCHDRR53Q==" autocomplete="off" />
+    <form class="starred js-social-form" action="/asim-sak/s1-2021-ihm/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="niWCJIf+NpcIQsHIfirLzo9mHiXD65ZAZLqxNqiP9aTQmXC8XtakYHVezr1ud6JMQDNyTD/JJQ/VAvPXSGU00Q==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar asim-sak/s1-2021-ihm" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:414595220,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="2045686712414a3b21aaa4e2713977bf79106634d62425c6db65c80f427c3d08" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar asim-sak/s1-2021-ihm" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:414595220,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="717a86c38795f232e1352c9d449fb6e9fa063e5c23c5c7c5bb23e959a76c8600" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
         <span data-view-component="true">
@@ -1029,9 +1029,9 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/asim-sak/s1-2021-ihm/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lYEEXgqLvJvJyqpQ3ijaOrx+5loUUoBYEAUr/a2pfRa+XYPlLXkYqj+D4vadyuIN7DogfssvVF+Vqq8skwLwPQ==" autocomplete="off" />
+    <form class="unstarred js-social-form" action="/asim-sak/s1-2021-ihm/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="djWTSL8Rxtw5Q74ibszen+kCbT/2K/SPvASXlXYBmX9d6RTzmONi7c8K9oQtLuaouUarGylWIIg5qxNESKoUVA==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Star this repository" title="Star asim-sak/s1-2021-ihm" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:414595220,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="80bf76a10b85cce3b60a7e13203cfc60138b3d0396239b403f81d532f1bbb292" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Star this repository" title="Star asim-sak/s1-2021-ihm" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:414595220,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="220b5709d6e348171cc2db2e0bbbb907ba6b34324876f8d3c877a392329627b3" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
         <span data-view-component="true">
@@ -1239,9 +1239,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/asim-sak/s1-2021-ihm/blob/f0be18e9ca4f1a262c88c5a8ee5189b79478541f/index.html">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/asim-sak/s1-2021-ihm/blob/f0be18e9ca4f1a262c88c5a8ee5189b79478541f/README.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:456a60f4923d68e25b6ee39aabf564f204e905f342edff3cfaecc8609c004a08 -->
+    <!-- blob contrib key: blob_contributors:v22:5e7229721926da683449bb53a3264ef004fd1da3865655eedadc69f20f08463d -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1311,10 +1311,10 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/asim-sak/s1-2021-ihm/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cqf9WevsVJHOMXFBtjOQBztlbWXr5ZK4hjfSES7Wp5tVNppnnPWwU5A4nDesu8xk5hq2B4u1VIP0j6kcRtGk0w==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/asim-sak/s1-2021-ihm/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2AVBihUZ1jN2/Vb14Eyi6PMipLOosWcbGW3vepfwQV7/lCa0YgAy8Sj0u4P6xP6LLl1/0cjhoSBr1ZR3//dCFg==" />
       <input type="hidden" name="name" value="{{ refName }}">
       <input type="hidden" name="branch"  value="main">
-      <input type="hidden" name="path_binary" value="aW5kZXguaHRtbA==">
+      <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
 
       <button class="SelectMenu-item wb-break-word" type="submit" role="menuitem" data-index="{{ index }}">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
@@ -1339,7 +1339,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/asim-sak/s1-2021-ihm/blob/{{ urlEncodedRefName }}/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/asim-sak/s1-2021-ihm/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1379,7 +1379,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/asim-sak/s1-2021-ihm/blob/{{ urlEncodedRefName }}/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/asim-sak/s1-2021-ihm/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1410,7 +1410,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/asim-sak/s1-2021-ihm"><span>s1-2021-ihm</span></a></span></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/asim-sak/s1-2021-ihm"><span>s1-2021-ihm</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
       </h2>
       <a href="/asim-sak/s1-2021-ihm/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1431,7 +1431,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:414595220,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="16bf248dc48da6e619bb60371b672d223a66d6e3a12e528c778919199d47d788" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/asim-sak/s1-2021-ihm/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:414595220,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="b8187bdd25f2d3cc11b7449941f755ae210634abac661407eaedcdb979aeceed" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/asim-sak/s1-2021-ihm/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1449,13 +1449,13 @@
 </button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/asim-sak/s1-2021-ihm/blob/f0be18e9ca4f1a262c88c5a8ee5189b79478541f/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/asim-sak/s1-2021-ihm/blob/f0be18e9ca4f1a262c88c5a8ee5189b79478541f/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1470,7 +1470,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/asim-sak/s1-2021-ihm/contributors/main/index.html" class="commit-loader">
+      <include-fragment src="/asim-sak/s1-2021-ihm/contributors/main/README.md" class="commit-loader">
         <div class="Box-header d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1505,22 +1505,38 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      18 lines (15 sloc)
+      6 lines (4 sloc)
       <span class="file-info-divider"></span>
-    494 Bytes
+    90 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-      
+        <div class="BtnGroup">
+    <a href="/asim-sak/s1-2021-ihm/blob/main/README.md?plain=1" aria-label="Display the source blob" role="button" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  btn-sm btn BtnGroup-item">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+  
+  
+
+</a>    <a href="/asim-sak/s1-2021-ihm/blob/main/README.md" aria-label="Display the rendered blob" role="button" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected btn-sm btn BtnGroup-item">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
+</svg>
+  
+  
+
+</a>  </div>
+
 
     <div class="BtnGroup">
-      <a href="/asim-sak/s1-2021-ihm/raw/main/index.html" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/asim-sak/s1-2021-ihm/raw/main/README.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/asim-sak/s1-2021-ihm/blame/main/index.html" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/asim-sak/s1-2021-ihm/blame/main/README.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1540,7 +1556,7 @@
           </a>
 
         
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/asim-sak/s1-2021-ihm/edit/main/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fSoE7WPVGkMvkqGS/blnFiwUxTFFzuMh/N6vdCkYXOPfQIdXB004rQfzDwTOsjDNeBRcz82PHwEUifGFEpRI8w==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/asim-sak/s1-2021-ihm/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ID47IcpAQ5MTAXFzlhtSNLapuEebEztAk5FKzonLJPu4dHPezzxeKZ9O5BGMztBt5mLlUAiZ4D2/uv94mygl3Q==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit this file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -1548,7 +1564,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/asim-sak/s1-2021-ihm/delete/main/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Sx3alwECd50oVUaQ/PWONDfnDFIacwAw0dZyAv8ZOyWLfDRfV9CAit1PwioU8EZJIBRwyl01RIl0WBo2YIVUoQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/asim-sak/s1-2021-ihm/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RLasc2WCf/QvNlfwJf8JiXuUvCi5KxSY1Zjww/pxdCSAhr8Nny+wBJY+kL/PtibhB9xDSwd9pg+7G/jWF7ipZw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -1576,24 +1592,24 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/asim-sak/s1-2021-ihm/raw/main/index.html">
+            <a class="dropdown-item" href="/asim-sak/s1-2021-ihm/raw/main/README.md">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/asim-sak/s1-2021-ihm/blame/main/index.html">
+              <a class="dropdown-item" href="/asim-sak/s1-2021-ihm/blame/main/README.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/asim-sak/s1-2021-ihm/edit/main/index.html">Edit file</a>
+                <a class="dropdown-item" href="/asim-sak/s1-2021-ihm/edit/main/README.md">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/asim-sak/s1-2021-ihm/delete/main/index.html">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/asim-sak/s1-2021-ihm/delete/main/README.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -1601,113 +1617,14 @@
 </div>
 
 
-      
-  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  gist-border-0">
-
-      
-<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
-      <tr>
-        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!DOCTYPE html<span class=pl-kos>&gt;</span></span></td>
-      </tr>
-      <tr>
-        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>UTF-8</span>&quot;<span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>http-equiv</span>=&quot;<span class=pl-s>X-UA-Compatible</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>IE=edge</span>&quot;<span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1.0</span>&quot;<span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>s1-2021-ihm<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>icon</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>favicon.ico</span>&quot; <span class=pl-c1>sizes</span>=&quot;<span class=pl-s>16x16</span>&quot; <span class=pl-c1>type</span>=&quot;<span class=pl-s>image/png</span>&quot;<span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>&lt;!-- commentaire  : description de la page--&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&lt;!--....à compléter (liens (fichiers CSS,javascript), balises META ...--&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line"> </td>
-      </tr>
-      <tr>
-        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>img</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>linux.jpg</span>&quot;<span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">
-</td>
-      </tr>
-      <tr>
-        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">    </td>
-      </tr>
-      <tr>
-        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
-      </tr>
-      <tr>
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
-      </tr>
-</table>
-
-  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
-    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-primary border color-border-tertiary rounded-1" aria-label="Inline file action toolbar">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
-    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
-</svg>
-    </summary>
-    <details-menu>
-
-      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
-      style="width:185px"
-      >
-        <li>
-          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
-            Copy lines
-          </clipboard-copy>
-        </li>
-        <li>
-          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
-            Copy permalink
-          </clipboard-copy>
-        </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/asim-sak/s1-2021-ihm/blame/f0be18e9ca4f1a262c88c5a8ee5189b79478541f/index.html">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/asim-sak/s1-2021-ihm/issues/new">Reference in new issue</a></li>
-      </ul>
-    </details-menu>
-  </details>
-
+        <div id="readme"  class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
+    <article class="markdown-body entry-content container-lg" itemprop="text"><p>Notre groupe pour cette SAÉ se compose de :</p>
+<ul>
+<li>SAK Asim</li>
+<li>BIANCHI Eliot</li>
+<li>DAVID Florian</li>
+</ul>
+</article>
   </div>
 
     </div>
@@ -1750,10 +1667,10 @@
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="8f54106fb9486da3db5a7618a8d090517e05db72ca7b0705f9ea1b23629bdab8">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="d69ba401bb454874f2d37ebc499458b7818bf7a312a01918781f4dd56319659e">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="48f36d92d37068aa2806a354534b5db70474bba7540c7e01982ec34a20ca572b" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="041d5304a64e5f9e84c7009f30cf9e600a25b7ba5ebe87e00a10d14e26e2d391">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="48d2dbc179b43b144bbca6e357db70f8a52c1fa539a03e08bab36652e44d540c">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="06cd180d245cbdf8e949373d0836777ea12b2b9747b31389d073b7b00ed0b479">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="6a085790eb2e3db829077cc0af9c5da6fa56d2ffc14601fa54326376e120a8e9" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="ea3851d44ff3f980bc0df821a75c94d55afe108d17b10518d154469b2176b008">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -1763,11 +1680,11 @@
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="1214edbc53adf26d80d250459687e58382187506276f09f7c791a157da9fa221">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="4fae43475381fa0ce7db5ec5a659b10083e456c1b8e0daaa00f7ca808ae5f6ea">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="114a25536657917bc7b4819ba3a376ecb9482d375ebff28f4899352a5c8f03c6">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="0bf25dec7a0c2defacc5730e6a7a8980b4cf9577bb299714daf2ef8241a4de97">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/index.html&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="3530a76094375efc28473e4bc56a754b18c52eb350c9a6ff78e7b4b091ba1aae">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="c966c6a9620f145a5cf1f78106807cfe94885838f7fd43776d18f4544c23a549">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="f85b2eb00ef6f6254af184a207238a0ff0c87555a0851fe5093ad63202611c18">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="0f5ae222d23050cc7441ebd5670dac500412fd4f1ae7e0fbb9dc26e69ca3a608">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="cfc44b035fe37232f95caa7a686a7c459fa6b4adf6a06fb868936a723ffbc5a6">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/asim-sak/s1-2021-ihm/blob/main/README.md&quot;,&quot;user_id&quot;:91720767}}" data-hydro-click-hmac="505fb586ee2428214aee6c8b7cb5d0fed9b278aeb5944f669b4236406e568960">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
