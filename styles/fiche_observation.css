@@ -1,0 +1,83 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #85c1e9;
+	font-family: cursive, sans-serif;
+}
+
+nav{
+	background-color: #424558;
+
+	
+}
+
+nav ul {
+	margin-top: 0px;
+	padding: 10px;
+	margin-left: 10px;
+	display: flex;
+	justify-content: center;
+}
+
+nav li {
+	list-style-type: none;
+	border: 1px solid black;
+	margin-left: 2%; 	
+	background-color: #2F4F4F;
+	padding: 10px;
+}
+
+nav a {
+	padding: 25px;
+	text-decoration: none;
+	color: #FFF;
+}
+
+#page_accueil:hover {
+	border-top: 5px solid #E44D26;
+	background-color: RGBa(228, 77, 38, 0.15);
+}
+
+#ent1:hover {
+	border-top: 5px solid #0070BB;
+	background-color: RGBa(000, 112, 192, 0.15);
+}
+
+#ent2:hover {
+	border-top: 5px solid #F1DC4F;
+	background-color: RGBa(241, 211, 79, 0.15);
+}
+
+#fiche_observation:hover {
+	border-top: 5px solid #d7dbdd ;
+	background-color: RGBa(231, 236, 241, 0.15);
+}
+
+#conteneur {
+	justify-content: space-between;
+	overflow: hidden;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	margin-top: 2%;
+	border: 4px solid black;
+}
+
+h1 {
+	border: 4px solid #1f618d;
+	background-color: #3498db;
+	margin-left: 27%;
+	margin-right: 27%;
+	padding: 12px;
+	text-align: center;
+}
+
+h1 a {
+	text-decoration: none;
+	color: #f0f3f4;
+}
