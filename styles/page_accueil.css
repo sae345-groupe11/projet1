@@ -78,13 +78,13 @@ nav a {
 }
 
 h1 {
-	height: 200px;
+	height: 170px;
 	width: 800px;
 	border: 6px solid #2e86c1;
 	background-color: #fdfefe;
 	border-radius: 20px;
-	margin-left: 28%;
-	margin-top: 3%;
+	margin-left: 24%;
+	margin-top: 2%;
 	
 	display: flex;
 }	
@@ -107,11 +107,11 @@ h1 img {
 
 }	
 #img{
-	height: 400px;
+	height: 390px;
 	width: 900px;
 	border: 2px solid black;
-	margin-left: 26%;
-	margin-top: 3%;
+	margin-left: 21%;
+	margin-top: 2%;
 	display: flex;
 	justify-content: center;
 
