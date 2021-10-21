@@ -1,38 +1,13 @@
 body {
 	margin: 0px;
 	padding: 0px;
-	background-color: #85c1e9;
-	font-family: cursive, sans-serif;
+	font-family: Apple Chancery, cursive;
+	text-shadow: 1px 1px 1px #212f3c;
+/* 	background-color: #85c1e9;
+	font-family: cursive, sans-serif; */
 }
 
-/* nav{
-	background-color: #424558;
 
-	
-}
-
-nav ul {
-	margin-top: 0px;
-	padding: 10px;
-	margin-left: 10px;
-	display: flex;
-	justify-content: center;
-}
-
-nav li {
-	list-style-type: none;
-	border: 1px solid black;
-	margin-left: 2%; 	
-	background-color: #2F4F4F;
-	padding: 10px;
-}
-
-nav a {
-	padding: 25px;
-	text-decoration: none;
-	color: #FFF;
-}
- */
 
 nav{
 	background-color: #424558;
