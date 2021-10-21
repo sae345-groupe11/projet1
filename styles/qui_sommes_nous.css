@@ -1,0 +1,117 @@
+/*Page crée par Florian*/
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+	font-family: Apple Chancery, cursive;
+	text-shadow: 1px 1px 1px #212f3c;
+}
+
+nav{
+	background-color: #424558;
+}
+
+nav ul {
+	margin-top: 0px;
+	padding: 10px;
+	margin-left: 2%;
+	display: flex;
+	justify-content: center;
+}
+
+nav li {
+	width: 300px;
+	list-style-type: none;
+	border: 1px solid black;
+	margin-left: 2%; 	
+	background-color: #2F4F4F;
+	padding: 10px;
+	text-align: center;
+}
+
+nav a {
+	padding: 25px;
+	text-decoration: none;
+	color: #FFF;
+}
+
+#page_accueil:hover {
+	border-top: 5px solid #E44D26;
+	background-color: RGBa(228, 77, 38, 0.15);
+}
+
+#ent1:hover {
+	border-top: 5px solid #0070BB;
+	background-color: RGBa(000, 112, 192, 0.15);
+}
+
+#ent2:hover {
+	border-top: 5px solid #F1DC4F;
+	background-color: RGBa(241, 211, 79, 0.15);
+}
+
+#fiche_observation:hover {
+	border-top: 5px solid #d7dbdd ;
+	background-color: RGBa(231, 236, 241, 0.15);
+}
+
+#conteneur {
+	justify-content: space-between;
+	overflow: hidden;
+}
+
+#titre {
+	border: 5px solid #2e86c1;
+	border-radius: 15px;
+	padding: 12px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 2%;
+	text-align: center;
+	background-color: #fdfefe;
+	color: #2e86c1;
+}
+
+#imgfrise {
+	border: 2px solid darkgreen;
+    margin-left: 20.75%;
+    margin-right: 19.8%;
+}
+
+#h22 {
+	text-align: center;
+	color: darkgreen;
+}
+
+#a1 {
+	text-decoration: underline;
+}
+
+#Activite {
+	border: 5px solid rgb(196, 61, 20);
+	border-radius: 100px;
+	padding: 12px;
+	margin-left: 34%;
+	margin-right: 34%;
+	margin-top: 2%;
+	text-align: center;
+	background-color: #fdfefe;
+	color: rgb(196, 61, 20);
+}
+
+#RessHumaines {
+	border: 5px solid brown;
+	border-radius: 100px;
+	padding: 12px;
+	margin-left: 34%;
+	margin-right: 34%;
+	margin-top: 2%;
+	text-align: center;
+	background-color: #fdfefe;
+	color: brown;
+}
+
+#employe {
+	height: 8cm;
+}
