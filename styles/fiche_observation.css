@@ -49,12 +49,12 @@ nav a {
 	background-color: RGBa(228, 77, 38, 0.15);
 }
 
-#ent1:hover {
+#infos:hover {
 	border-top: 5px solid #0070BB;
 	background-color: RGBa(000, 112, 192, 0.15);
 }
 
-#ent2:hover {
+#bilan:hover {
 	border-top: 5px solid #F1DC4F;
 	background-color: RGBa(241, 211, 79, 0.15);
 }
