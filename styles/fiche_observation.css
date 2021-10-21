@@ -5,7 +5,7 @@ body {
 	font-family: cursive, sans-serif;
 }
 
-nav{
+/* nav{
 	background-color: #424558;
 
 	
@@ -32,7 +32,38 @@ nav a {
 	text-decoration: none;
 	color: #FFF;
 }
+ */
 
+nav{
+	background-color: #424558;
+
+	
+}
+
+nav ul {
+	margin-top: 0px;
+	padding: 10px;
+	margin-left: 2px;
+	display: flex;
+	justify-content: center;
+}
+
+nav li {
+	width: 300px;
+	list-style-type: none;
+	border: 1px solid black;
+	margin-left: 2%; 	
+	background-color: #2F4F4F;
+	padding: 10px;
+	text-align: center;
+
+}
+
+nav a {
+	padding: 25px;
+	text-decoration: none;
+	color: #FFF;
+}
 #page_accueil:hover {
 	border-top: 5px solid #E44D26;
 	background-color: RGBa(228, 77, 38, 0.15);
