@@ -5,7 +5,11 @@ Notre groupe pour cette SAÉ se compose de :<br>
     
 ![écran de zoning](doc/ecran_zoning.png)
 ![écran prototype](doc/ecran_prototype.png)
+![w3cValidation](doc/w3cValidation.pdf)
+<br>
 
-[écran prototype](doc/BIANCHI_SAES106_A2_Altran.pdf)
+[Économie et Documents numérique](doc/BIANCHI_SAES106_A2_Altran.pdf)
+
+
 
 
