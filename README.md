@@ -3,10 +3,11 @@ Notre groupe pour cette SAÉ se compose de :<br>
     SAK Asim  -> pages : index.html, fiche_observation.html, ecran zoning et prototype<br>
     DAVID Florian  -> page : qui_sommes_nous.html
     
-![écran de zoning](doc/ecran_zoning.png)
-![écran prototype](doc/ecran_prototype.png)
-![w3cValidation](doc/w3cValidation.pdf)
-<br>
+![écran de zoning](doc/ecran_zoning.png)<br>
+![écran prototype](doc/ecran_prototype.png)<br>
+
+![w3cValidation](doc/w3cValidation.pdf)<br>
+
 
 [Économie et Documents numérique](doc/BIANCHI_SAES106_A2_Altran.pdf)
 
