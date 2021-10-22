@@ -6,6 +6,6 @@ Notre groupe pour cette SAÉ se compose de :<br>
 ![écran de zoning](doc/ecran_zoning.png)
 ![écran prototype](doc/ecran_prototype.png)
 
-[écran prototype](doc/groupe_nom1_nom2_nom3_nom4.pdf)
+[écran prototype](doc/BIANCHI_SAES106_A2_Altran.pdf)
 
 
