@@ -1,5 +1,4 @@
 
-
 /*Page d'Asim SAK*/
 
 
@@ -77,19 +76,23 @@ nav a {
 	width: 15%;
 }
 
-h1 {
-	height: 170px;
+h2 {
+	height: 150px;
 	width: 800px;
 	border: 6px solid #2e86c1;
 	background-color: #fdfefe;
 	border-radius: 20px;
-	margin-left: 24%;
+	margin-left: 28%;
 	margin-top: 2%;
-	
+	padding-left: 2%;
+	color: #2e86c1;
+
+
+
 	display: flex;
 }	
 
-h1 p {
+/*h1 p {
 	border: 2px solid #2e86c1;;
 	color: #2e86c1;
 	margin: 2%;
@@ -97,30 +100,30 @@ h1 p {
 	font-size: 18px;
 	width: 500px;
 
-}
+}*/
 
 
-h1 img {
-	border: 2px solid #2e86c1;
-    margin: 2%;
-    margin-left: 5%;
+h2 img {
+
+    margin-left: 15%;
+   
 
 }	
 #img{
 	height: 390px;
 	width: 900px;
 	border: 2px solid black;
-	margin-left: 21%;
+	margin-left: 27%;
 	margin-top: 2%;
 	display: flex;
 	justify-content: center;
 
 }	
 
-span{
+/*span{
 	display: block;
 	text-align: center;
-}
+}*/
 
 
 	
