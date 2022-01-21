@@ -1,12 +1,9 @@
 
-    
+groupe numéro : 11
 
-groupe numéro :
-
-* étudiant référent :
-* étudiant 2 :
-* étudiant 3 :
-* étudiant 4 :
+* étudiant référent : BIANCHI Eliot
+* étudiant 2 : SAK Asim
+* étudiant 3 : MERVEAUX Julien
 
 URL du projet github :
 
