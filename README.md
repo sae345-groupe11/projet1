@@ -5,7 +5,7 @@ groupe numéro : 11
 * étudiant 2 : SAK Asim
 * étudiant 3 : MERVEAUX Julien
 
-URL du projet github :
+URL du projet github : https://github.com/sae345-groupe11/meubles
 
 URL du site pythonanywhere :
 
